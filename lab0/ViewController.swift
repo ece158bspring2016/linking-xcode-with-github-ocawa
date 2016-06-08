@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("pushed to github late, lol")
+        print("pushed to github late, lol asdfasdfasdf")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
